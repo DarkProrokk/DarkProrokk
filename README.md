@@ -33,8 +33,8 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" width="50" height="50"/></a>
   <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslxfXrjtWJ8kEpgL24ziSFrZUwxzIZckC0WLoehES6A&s" alt="celery" width="50" height="50"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="50" height="50"/></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="docker" width="50" height="50"/></a>
-  <a href="https://codeium.com/" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/63994dae1033718bee6949ce/63bc4b6dcc54dc7de8b2d48b_codeium_logo.png" alt="codeium" width="50" height="50"/></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="docker" width="40" height="40"/></a>
+  <a href="https://codeium.com/" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/63994dae1033718bee6949ce/63bc4b6dcc54dc7de8b2d48b_codeium_logo.png" alt="codeium" width="40" height="40"/></a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkprorokk)
