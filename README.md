@@ -26,6 +26,8 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgres" width="50" height="50"/></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" width="50" height="50"/></a>
   <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslxfXrjtWJ8kEpgL24ziSFrZUwxzIZckC0WLoehES6A&s" alt="celery" width="50" height="50"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="50" height="50"/></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="docker" width="50" height="50"/></a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkprorokk)
