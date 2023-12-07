@@ -1,6 +1,12 @@
 <h1 align="center">Hi there, I'm Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software developer, developed web-apps in Python language. </h3>
+<ul align="center">
+  <li>👀 I’m interested in web development.</li>
+  <li>🌱 I’m currently learning event driven dev in python, Django, DRF, NOSQL & SQL databases and deploying instruments.</li>
+  <li>💞️ I’m looking to collaborate on web dev projects, telegram bots.</li>
+  <li>📫 How to reach me: <a href="mailto:seroshtanmakcs@gmail.com">seroshtanmakcs@gmail.com</a>, https://t.me/DarkProrokmeow</li>
+</ul>
 
 ### Languages
 <p align="left"> 
