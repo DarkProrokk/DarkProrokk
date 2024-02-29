@@ -3,7 +3,7 @@
 <h3 align="center">Software web-developer. </h3>
 <ul align="center">
   <li>👀 I’m interested in web development.</li>
-  <li>🌱 I’m currently learning event driven dev in Python <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="20" height="20"/>, Django <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" width="20" height="20"/>, DRF, NOSQL & SQL databases and deploying instruments.</li>
+  <li>🌱 I’m currently learning dev web app on Python <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="20" height="20"/>, Django <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" width="20" height="20"/>, DRF, C#, ASP-NET, EF-Core NOSQL & SQL databases and deploying instruments.</li>
   <li>💞️ I’m looking to collaborate on web dev projects, telegram bots.</li>
   <li>📫 How to reach me: <a href="mailto:seroshtanmakcs@gmail.com">seroshtanmakcs@gmail.com</a>, https://t.me/DarkProrokmeow</li>
 </ul>
