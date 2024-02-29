@@ -14,7 +14,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
 ### Frameworks
@@ -23,6 +22,7 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/></a>
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" alt="sqlalchemy" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/File:.NET_Core_Logo.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
 ### Tools
