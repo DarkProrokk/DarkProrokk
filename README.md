@@ -7,7 +7,7 @@
   <li>💞️ I’m looking to collaborate on web dev projects, telegram bots.</li>
   <li>📫 How to reach me: <a href="mailto:seroshtanmakcs@gmail.com">seroshtanmakcs@gmail.com</a>, https://t.me/DarkProrokmeow</li>
 </ul>
-[Profile views](https://komarev.com/ghpvc/?username=DarkProrokk)
+![Profile views](href="https://komarev.com/ghpvc/?username=DarkProrokk")
 
 ### Languages
 <p align="left"> 
