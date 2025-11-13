@@ -37,8 +37,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darkprorokk&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darkprorokk&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darkprorokk&theme=solarized_dark)
-
-### REPO
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkprorokk&repo=Shop)](https://github.com/DarkProrokk/Shop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkprorokk&repo=Payment)](https://github.com/DarkProrokk/Payment)
